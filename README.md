@@ -1,6 +1,6 @@
 # Deku Package Mirrors
 
-Mirror policy and health tooling for future Deku package repositories.
+Defines mirror selection, freshness and health requirements for future Deku package repositories.
 
 ## Status
 
